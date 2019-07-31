@@ -1,3 +1,5 @@
+#Hur lär sig en dator egentligen saker?
+
 Nim är ett mattematiskt spel I vilket två spelare turas om att ta ett antal spelbrickor ifrån en uppbyggd rad. Antalet som spelaren kan ta under sin tur är 1, 2 eller 3. Den spelare som tar den sista spelbrickan förlorar.  En sak som gör NIM spelciellt lämpat för våra ändamål är att det alltid går att vinna NIM om en bara följer en viss algorithm.  
 
  
